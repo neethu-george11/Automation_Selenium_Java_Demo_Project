@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-14T12:25:53 IST" name="Default suite" finished-at="2025-01-14T12:25:53 IST" duration-ms="66">
+    <groups>
+    </groups>
+    <test started-at="2025-01-14T12:25:53 IST" name="Default test" finished-at="2025-01-14T12:25:53 IST" duration-ms="66">
+      <class name="testNGDemo.TestCase3">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testNGDemo.TestCase3@42e99e4a]" started-at="2025-01-14T12:25:53 IST" name="beforeClass" finished-at="2025-01-14T12:25:53 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="openApplication()[pri:0, instance:testNGDemo.TestCase3@42e99e4a]" started-at="2025-01-14T12:25:53 IST" name="openApplication" finished-at="2025-01-14T12:25:53 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method signature="testMethod()[pri:1, instance:testNGDemo.TestCase3@42e99e4a]" started-at="2025-01-14T12:25:53 IST" name="testMethod" finished-at="2025-01-14T12:25:53 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:testNGDemo.TestCase3@42e99e4a]" started-at="2025-01-14T12:25:53 IST" name="closeApplication" finished-at="2025-01-14T12:25:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- testNGDemo.TestCase3 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
